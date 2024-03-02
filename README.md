@@ -1,17 +1,22 @@
-<h1 align="center">Hi 👋 I'm Julius Monday</h1>👋🏾
-# 💻 Connect with me:
+👋 Hello there! Welcome to my GitHub profile! 👨‍💻
 
-![Twitter](https://img.shields.io/badge/twitter-%233776AB.svg?style=for-the-badge&logo=twitter&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%233776AB.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/whatsapp-%233776AB.svg?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Facebook Page](https://img.shields.io/badge/facebook-%233776AB.svg?style=for-the-badge&logo=facebook&logoColor=white)
-![Facebook Profile](https://img.shields.io/badge/facebook-%233776AB.svg?style=for-the-badge&logo=facebook&logoColor=white)
-![Instagram](https://img.shields.io/badge/instagram-%233776AB.svg?style=for-the-badge&logo=instagram&logoColor=white)
+I'm Monday Chimaobi Julius, a passionate software engineer and a Biochemist 🚀with a passion for crafting elegant and efficient solutions. With a diverse skill set encompassing HTML, CSS, and Tailwind CSS, I specialize in creating visually appealing and responsive user interfaces. Proficient in JavaScript, Node.js, and Express, I excel in building robust backend systems and RESTful APIs, empowering applications with seamless functionality.... with expertise in various technologies such as:
+
+💻 HTML | CSS | JavaScript
+🔧 Node.js | Express.js
+🐍 Python
+📊 SQL | MongoDB
+⚛️ React.js
+
+👋 Feel free to explore my repositories and projects. Don't hesitate to reach out to me if you have any questions or collaboration opportunities:
 
 [![Twitter](https://img.shields.io/badge/twitter-%233776AB.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JuTeLabs)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%233776AB.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chimaobi-julius-bba95a233/)
+[![WhatsApp](https://img.shields.io/badge/whatsapp-%233776AB.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2349054634160)
+[![Facebook Page](https://img.shields.io/badge/facebook-%233776AB.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/JuTeLabsOfficial)
+[![Facebook Profile](https://img.shields.io/badge/facebook-%233776AB.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100089520757544)
+[![Instagram](https://img.shields.io/badge/instagram-%233776AB.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jutelabss/)
 
-👋 Hello, I'm Julius, a software engineer at altschool, with a passion for crafting elegant and efficient solutions. With a diverse skill set encompassing HTML, CSS, and Tailwind CSS, I specialize in creating visually appealing and responsive user interfaces. Proficient in JavaScript, Node.js, and Express, I excel in building robust backend systems and RESTful APIs, empowering applications with seamless functionality....
 
 **Here's a quick summary about me**:
 
@@ -48,5 +53,5 @@ Libraries/Frameworks:
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <div style="background-color: #f0f0f0; padding: 20px;">
-    <p style="font-weight: bold;">Fun to be with 😄</p>
+    <p style="font-weight: bold;">Fun to be with 😄 Happy coding! 😊</p>
 </div>
