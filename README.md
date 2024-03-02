@@ -45,7 +45,6 @@ Developer Tools:
 ![Thunder Client](https://img.shields.io/badge/Thunder%20Client-%23212121.svg?style=for-the-badge)
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
 Libraries/Frameworks: 
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
@@ -55,3 +54,4 @@ Libraries/Frameworks:
 <div style="background-color: #f0f0f0; padding: 20px;">
     <p style="font-weight: bold;">Fun to be with 😄 Happy coding! 😊</p>
 </div>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuliusMonday&show_icons=true&include_all_commits=true&hide_border=true" alt="Your Name's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliusMonday&langs_count=8&layout=compact&hide_border=true" alt="JuliusMonday GitHub stats" /> |
