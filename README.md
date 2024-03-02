@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Julius Monday</h1>👋🏾
 ---
-[![Twitter](https://img.shields.io/badge/twitter-%233776AB.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JuTeLabs)
+[![Python](https://img.shields.io/badge/twitter-%233776AB.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JuTeLabs)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%233776AB.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chimaobi-julius-bba95a233/)
 [![WhatsApp](https://img.shields.io/badge/whatsapp-%233776AB.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2349054634160)
 [![Facebook Page](https://img.shields.io/badge/facebook-%233776AB.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/JuTeLabsOfficial)
