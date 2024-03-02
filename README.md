@@ -9,6 +9,7 @@
 ![Instagram](https://img.shields.io/badge/instagram-%233776AB.svg?style=for-the-badge&logo=instagram&logoColor=white)
 
 [![Twitter](https://img.shields.io/badge/twitter-%233776AB.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JuTeLabs)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%233776AB.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chimaobi-julius-bba95a233/)
 
 👋 Hello, I'm Julius, a software engineer at altschool, with a passion for crafting elegant and efficient solutions. With a diverse skill set encompassing HTML, CSS, and Tailwind CSS, I specialize in creating visually appealing and responsive user interfaces. Proficient in JavaScript, Node.js, and Express, I excel in building robust backend systems and RESTful APIs, empowering applications with seamless functionality....
 
