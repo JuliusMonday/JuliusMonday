@@ -1,5 +1,3 @@
- Hello there! Welcome to my GitHub profile! 
-
 Hello there! Welcome to my GitHub profile!
 
 I'm Monday Chimaobi Julius, an AI Engineer and Full-Stack Developer bridging the gap between advanced software engineering, artificial intelligence, and healthcare (Radiography & Biochemistry) with expertise in various technologies such as:
@@ -55,14 +53,22 @@ Libraries/Frameworks:
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<div align="center" style="background-color: #f0f0f0; padding: 20px;>
-  <kbd><b>CODING IS A LIFE PROCESS</b></kbd>
+<div align="center" style="background-color: #1a1a1a; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+  <kbd style="background-color: #333; color: #fff; font-size: 14px;"><b>CODING IS A LIFE PROCESS</b></kbd>
+</div>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=JuliusMonday&show_icons=true&include_all_commits=true&hide_border=true&theme=vue-dark" alt="Julius's GitHub stats" height="180px" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliusMonday&langs_count=8&layout=compact&hide_border=true&theme=vue-dark" alt="Julius's Top Languages" height="180px" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
-
-| GitHub Statistics | Top Languages |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=JuliusMonday&show_icons=true&include_all_commits=true&hide_border=true&theme=vue-dark" alt="Julius's GitHub stats" height="180px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliusMonday&langs_count=8&layout=compact&hide_border=true&theme=vue-dark" alt="Julius's Top Languages" height="180px" /> |
-
 ---
