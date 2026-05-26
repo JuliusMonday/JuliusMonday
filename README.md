@@ -1,18 +1,22 @@
-👋 Hello there! Welcome to my GitHub profile! 👨‍💻
+ Hello there! Welcome to my GitHub profile! 
 
-I'm Monday Chimaobi Julius, a passionate software engineer and a Biochemist 🚀with a passion for crafting elegant and efficient solutions. With a diverse skill set encompassing HTML, CSS, and Tailwind CSS, I specialize in creating visually appealing and responsive user interfaces. Proficient in JavaScript, Node.js, and Express, I excel in building robust backend systems and RESTful APIs, empowering applications with seamless functionality.... with expertise in various technologies such as:
+Hello there! Welcome to my GitHub profile!
+
+I'm Monday Chimaobi Julius, an AI Engineer and Full-Stack Developer bridging the gap between advanced software engineering, artificial intelligence, and healthcare (Radiography & Biochemistry) with expertise in various technologies such as:
 
 💻 HTML | CSS | JavaScript
 🔧 Node.js | Express.js
 🐍 Python
 📊 SQL | MongoDB
 ⚛️ React.js
+🤖 AI & Backend Engineering
+🏥 Medical Tech Domain Focus
 
-👋 Feel free to explore my repositories and projects. Don't hesitate to reach out to me if you have any questions or collaboration opportunities:
+Feel free to explore my repositories and projects. Don't hesitate to reach out to me if you have any questions or collaboration opportunities:
 
 [![Twitter](https://img.shields.io/badge/twitter-%233776AB.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JuTeLabs)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%233776AB.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chimaobi-julius-bba95a233/)
-[![WhatsApp](https://img.shields.io/badge/whatsapp-%233776AB.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2349054634160)
+[![WhatsApp](https://img.shields.io/badge/whatsapp-%233776AB.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2347068209902)
 [![Facebook Page](https://img.shields.io/badge/facebook-%233776AB.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/JuTeLabsOfficial)
 [![Facebook Profile](https://img.shields.io/badge/facebook-%233776AB.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100089520757544)
 [![Instagram](https://img.shields.io/badge/instagram-%233776AB.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jutelabss/)
@@ -21,11 +25,11 @@ I'm Monday Chimaobi Julius, a passionate software engineer and a Biochemist 🚀
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
-- 🌱 I’m currently learning JavaScript, Reactjs, Nodejs and Python.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailtojuliuschimaobi6@gmail.com.
+- 💡 ⚡ Fun Fact: I am an alumnus of AltSchool Africa (School of Software Engineering) and a certified Software Developer through the Federal Government’s 3MTT Initiative. I love combining formal technical training with my medical background to build smart systems.
+- 🌱 I’m a MERN STACK Developer with Python for heavy data lifting.
+- 😊 I’m looking to help with open source projects, hackathons, internships, and entry-level opportunities.
+- 💼 Job interests: Software Engineer, FullStack web Engineer (Intern or Junior level), AI Engineer.
+- 📫 You can [view my resume](#) or contact me by emailing juliuschimaobi6@gmail.com.
 
 ---
 # 💻 Tech Stack:
@@ -51,7 +55,14 @@ Libraries/Frameworks:
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<div style="background-color: #f0f0f0; padding: 20px;">
-    <p style="font-weight: bold;">Fun to be with 😄 Happy coding! 😊</p>
+<div align="center" style="background-color: #f0f0f0; padding: 20px;>
+  <kbd><b>CODING IS A LIFE PROCESS</b></kbd>
 </div>
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuliusMonday&show_icons=true&include_all_commits=true&hide_border=true" alt="Your Name's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliusMonday&langs_count=8&layout=compact&hide_border=true" alt="JuliusMonday GitHub stats" /> |
+
+<br />
+
+| GitHub Statistics | Top Languages |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=JuliusMonday&show_icons=true&include_all_commits=true&hide_border=true&theme=vue-dark" alt="Julius's GitHub stats" height="180px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliusMonday&langs_count=8&layout=compact&hide_border=true&theme=vue-dark" alt="Julius's Top Languages" height="180px" /> |
+
+---
