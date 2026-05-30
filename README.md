@@ -23,7 +23,7 @@ Feel free to explore my repositories and projects. Don't hesitate to reach out t
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 ⚡ Fun Fact: I am an alumnus of AltSchool Africa (School of Software Engineering) and a certified Software Developer through the Federal Government’s 3MTT Initiative. I love combining formal technical training with my medical background to build smart systems.
+- ⚡ Fun Fact: I am an alumnus of AltSchool Africa (School of Software Engineering) and a certified Software Developer through the Federal Government’s 3MTT Initiative. I love combining formal technical training with my medical background to build smart systems.
 - 🌱 I’m a MERN STACK Developer with Python for heavy data lifting.
 - 😊 I’m looking to help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, FullStack web Engineer (Intern or Junior level), AI Engineer.
@@ -61,7 +61,7 @@ Libraries/Frameworks:
   <table border="0">
     <tr>
       <td align="center" valign="top">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JuliusMonday&show_icons=true&include_all_commits=true&hide=contribs&hide_border=true&theme=vue-dark" alt="Julius's GitHub stats" height="180px" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JuliusMonday&show_icons=true&include_all_commits=true&hide_border=true&theme=vue-dark" alt="Julius's GitHub stats" height="180px" />
       </td>
       <td align="center" valign="top">
         <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JuliusMonday&langs_count=8&layout=compact&hide_border=true&theme=vue-dark" alt="Julius's Top Languages" height="180px" />
@@ -71,4 +71,3 @@ Libraries/Frameworks:
 </div>
 
 <br />
----
