@@ -36,10 +36,10 @@ I am a Full-Stack Developer and AI Engineer dedicated to bridging the gap betwee
   <table border="0">
     <tr>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JuliusMonday&show_icons=true&include_all_commits=true&hide_border=true&theme=vue-dark" alt="GitHub stats" height="180px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=JuliusMonday&show_icons=true&include_all_commits=true&hide_border=true&theme=vue-dark" alt="GitHub stats" height="180px" />
       </td>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JuliusMonday&langs_count=8&layout=compact&hide_border=true&theme=vue-dark" alt="Top Languages" height="180px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliusMonday&langs_count=8&layout=compact&hide_border=true&theme=vue-dark" alt="Top Languages" height="180px" />
       </td>
     </tr>
   </table>
