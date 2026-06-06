@@ -1,7 +1,7 @@
 # Monday Chimaobi Julius
 ### Full-Stack Developer | AI Engineer | HealthTech Enthusiast
 
-I am a Full-Stack Developer and AI Engineer dedicated to bridging the gap between advanced software engineering, artificial intelligence, and the healthcare sector. I specialize in building scalable web applications and AI-driven solutions, with a strong academic background in Radiography and Biochemistry.
+I am a Full-Stack Developer and AI Engineer dedicated to bridging the gap between advanced software engineering, artificial intelligence, and the healthcare sector. I specialize in building scalable web applications and AI-driven solutions, leveraging my academic background in both Biochemistry and Radiography.
 
 ---
 
@@ -11,6 +11,7 @@ I am a Full-Stack Developer and AI Engineer dedicated to bridging the gap betwee
 | :--- | :--- |
 | **Languages** | Python, JavaScript (ES6+), SQL, HTML5, CSS3 |
 | **Frameworks/Libraries** | React.js, Node.js, Express.js, Tailwind CSS |
+| **CMS** | WordPress (Expert) |
 | **Databases** | MongoDB, PostgreSQL |
 | **Developer Tools** | Git, Postman, Visual Studio Code, Cursor IDE, JetBrains, Thunder Client, MongoDB Compass |
 
@@ -19,8 +20,11 @@ I am a Full-Stack Developer and AI Engineer dedicated to bridging the gap betwee
 ## Professional Summary
 
 *   **Role:** Founder of JuTeLabs Limited.
-*   **Specialization:** MERN Stack development and Python-based AI services.
-*   **Education:** 300-level Radiography student at the University of Nigeria; Alumnus of AltSchool Africa and 3MTT Initiative.
+*   **Specialization:** MERN Stack development, Python-based AI services, and WordPress development.
+*   **Education:** 
+    *   **Radiography:** Undergraduate student (University of Nigeria).
+    *   **Biochemistry:** Graduate (Higher National Diploma, Federal Polytechnic Oko).
+    *   **Tech Training:** Alumnus of AltSchool Africa and 3MTT Initiative.
 *   **Focus:** Combining formal technical training with a healthcare background to develop intelligent, automated systems.
 *   **Status:** Open to open-source collaborations, hackathons, and software engineering opportunities (Intern or Junior level).
 
