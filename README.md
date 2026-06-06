@@ -32,10 +32,10 @@ I am a Full-Stack Developer and AI Engineer dedicated to bridging the gap betwee
 
 ## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuliusMonday&show_icons=true&include_all_commits=true&hide_border=true&theme=vue-dark" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliusMonday&langs_count=8&layout=compact&hide_border=true&theme=vue-dark" alt="Top Languages" />
-</p>
+## GitHub Statistics
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliusMonday&show_icons=true&include_all_commits=true&hide_border=true&theme=vue-dark&v=1)](https://github.com/JuliusMonday)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliusMonday&langs_count=8&layout=compact&hide_border=true&theme=vue-dark&v=1)](https://github.com/JuliusMonday)
 
 ---
 
