@@ -53,7 +53,7 @@ I am a Full-Stack Developer and AI Engineer dedicated to bridging the gap betwee
 *   **Twitter:** [twitter.com/JuTeLabs](https://twitter.com/JuTeLabs)
 *   **WhatsApp:** [Chat on WhatsApp](https://wa.me/2347068209902)
 *   **Portfolio/Facebook:** [JuTeLabs Official](https://web.facebook.com/JuTeLabsOfficial)
-*   **Resume:** [Link to your resume file]
+*   **Resume:** [Link to your resume file] (https://docs.google.com/document/d/1nqABssef8K0ctzX3aXYRp4C4SxZ-GHDRzMAYDLnQY1g/edit?usp=sharing)
 
 ---
 *Coding is a life process.*
